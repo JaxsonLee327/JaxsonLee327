@@ -3,20 +3,13 @@
 </h2>
 
 <h4 align='center'>
-  FullStack Engineer 
+  Blockchain & FullStack Engineer 
 </h4>
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
 
-
-## 👩  About me:
+## 👩  Who am I ?
 <p>
-As a senior full-stack developer with 10 years of experience a <b>bachelor's degree</b> in Computer Science.<br>
+As a senior full-stack engineer with 10 years of experience a <b>bachelor's degree</b> in Computer Science.<br>
 I've been working on various projects as a <b>full-stack</b> developer in a variety of industries, ranging from startups to enterprise companies.<br>
 I bring strong skills in collaboration and detail-oriented processes, all of which I strive to use to increase productivity, organization, and efficiency. I specialize in React, Vue.js and Angular for the front-end development and Node.js for the back-end developer.<br>
 Also, I can do everything you need to build your app from the ground-up and get it on the market which means I can turn your conceptual ideal to real working software. 
@@ -26,6 +19,7 @@ Also, I can do everything you need to build your app from the ground-up and get 
 <br>🔸 Languages: JavaScript, JSON, Bootstrap, HTML5, CSS3, ES6, SASS
 <br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, jQuery, Wordpress, Strapi
 <br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
+<br>🔸 Blockchain: Etherium, Web3.js, Smart Contract, Blockchain investment
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
@@ -48,6 +42,6 @@ Also, I can do everything you need to build your app from the ground-up and get 
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/brown-qs"><img src="https://github-profile-trophy.vercel.app/?username=brown-qs&margin-w=5&theme=radical" alt="brown-qs" /></a> </p>
+<p align="center"> <a href="https://github.com/jaxson-resume"><img src="https://github-profile-trophy.vercel.app/?username=brown-qs&margin-w=5&theme=radical" alt="brown-qs" /></a> </p>
 
 <br>
