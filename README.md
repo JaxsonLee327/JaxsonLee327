@@ -16,20 +16,16 @@
 
 ## 👩  About me:
 <p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
+As a senior full-stack developer with 10 years of experience a <b>bachelor's degree</b> in Computer Science.<br>
+I've been working on various projects as a <b>full-stack</b> developer in a variety of industries, ranging from startups to enterprise companies.<br>
+I bring strong skills in collaboration and detail-oriented processes, all of which I strive to use to increase productivity, organization, and efficiency. I specialize in React, Vue.js and Angular for the front-end development and Node.js for the back-end developer.<br>
+Also, I can do everything you need to build your app from the ground-up and get it on the market which means I can turn your conceptual ideal to real working software. 
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 FrontEnd - React.js, Vue.js, Typescript, Rest API
-<br>🔸 BackEnd - Node.js, Express, Laravel, MySQL, Redis, MongoDB, Python
-<br>🔸 AWS and MLOPS
+<br>🔸 Languages: JavaScript, JSON, Bootstrap, HTML5, CSS3, ES6, SASS
+<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, jQuery, Wordpress, Strapi
+<br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
